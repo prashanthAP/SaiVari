@@ -1,0 +1,6 @@
+SaiVari WebSite 
+
+Backend integration — Connect the lead form to a real backend API/database
+Analytics — Add Google Analytics / conversion tracking
+SEO — Enhance meta tags and add structured data (JSON-LD)
+Deployment — Deploy to Netlify, Vercel, or a custom domain
